@@ -1,0 +1,318 @@
+  .body{
+    margin: 0px;
+    margin-bottom: 0px;
+  }
+  .all{
+    height: auto;
+    width: 100%;
+  }
+  .fpart{
+    margin-top: 0px;
+    width: 100%;
+    height: 262.5px;
+    border-bottom: 3px solid #128aa7
+  }
+  .tpart{
+    float: left;
+    width: 100%;
+    height: 42px;
+    background-color: #128aa7;
+  }
+  .bpart{
+    position: absolute;
+    margin-top: 42px;
+    width: 100%;
+    height: 220.5px;
+      background: linear-gradient(to top, #ffffff, #11cee1);
+  }
+  .dop{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+  }
+  .dopm{
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+  }
+  .top{
+    width: 1498px;
+    height: 260.5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 1px solid lightgray;
+
+  }
+  .Asia-Holidays{
+    float: left;
+    margin-top: 0px;
+    width: 468px;
+    overflow: hidden;
+  }
+  .imgAs{
+    float: left;
+    margin-left: 40.5px;
+    margin-top: 36px;
+    width: 390px;
+  }
+  .imgAsp{
+    float: left;
+    margin-left: 130px;
+    margin-top: 165px;
+    font-size: 18px;
+    color: #90c8d6;
+    position: absolute;
+  }
+  .spart{
+
+
+  }
+  .middle{
+    width: 1500px;
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bottom{
+    margin-top: -4px;
+    float: left;
+    background: url(fon.png) repeat-y;
+  }
+  .rpart{
+    float: right;
+    margin-top: 0px;
+    overflow: hidden;
+    margin-right: 50px;
+}
+.contacts{
+float: right;
+color: #90c8d6;
+font-size: 20px;
+}
+.nk{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.countries{
+  margin-top: 22px;
+  clear: both;
+  float: right;
+}
+.conam{
+  margin: 0px;
+  text-align: center;
+  color: #90c8d6;
+}
+.conam2{
+  margin: 0px;
+  margin-left: -11px;
+  text-align: center;
+  color: #90c8d6;
+
+}
+.India{
+  float: left;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.Nepal{
+  float: left;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.Tibet{
+  float: left;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.Bytan{
+  float: left;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.Sri-Lanka{
+  float: left;
+  padding-left: 9px;
+  padding-right: 9px;
+
+}
+.Maldivies{
+  float: left;
+
+  padding-right: 9px;
+}
+.middleimage{
+  width: 1500px;
+margin: 0px;
+}
+.tpart2{
+
+  float: left;
+  width: 100%;
+  height: 222px;
+background: linear-gradient(to top, #1393b1, #40c6d3);
+}
+.bpart2{
+
+  float: left;
+  width: 100%;
+  height: 1000px;
+background: linear-gradient(to top, #0c739f, #1192b1);
+}
+.table1{
+  margin-top: -4px;
+  background-color: #333333;
+  color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+  width: 100%;
+  height: 45px;
+  text-align: center;
+}
+
+.bb{
+float: left;
+  width: 100%;
+  height: 50px;
+  background: linear-gradient(to top, #0c739f, #0c739f);
+}
+.content{
+
+}
+.leftcolumn{
+  text-align: center;
+  float: left;
+  width: 315px;
+}
+.centercolumn{
+  text-align: center;
+  float: left;
+  width: 870px;
+}
+.rightcolumn{
+  text-align: center;
+  float: right;
+  width: 315px;
+}
+.dop1{
+  margin-top: 400px;
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+
+
+}
+.dop2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1500px;
+
+}
+.obedn{
+  position: relative;
+}
+.bb{
+  text-align: center;
+  color: #90c8d6;
+
+}
+.menu{
+  margin-top: -4px;
+  font-size: 0px;
+  font-size:  18px;
+  margin-bottom: 0px;
+}
+ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+ul:after {
+    display: block;
+    content: ' ';
+    clear: both;
+    float: none;
+}
+ul.menu > li {
+    float: left;
+    position: relative;
+}
+ul.menu > li > a {
+    display: block;
+    padding: 10px;
+    color: white;
+    background: linear-gradient(to top, #303030, #373737);
+    text-decoration: none;
+}
+ul.menu > li > .pta:hover {
+  text-decoration: none;
+
+}
+ul.menu > li > .yca:hover {
+  text-decoration: none;
+
+}
+ul.menu > li > .partna:hover {
+ text-decoration: none;
+}
+ul.submenu {
+    display: none;
+    width: auto;
+    top: 37px;
+    left: 0;
+    background: linear-gradient(to top, #303030, #373737);
+    border: 1px solid black;
+    position: absolute;
+    z-index: 4;
+}
+ul.submenu > li {
+    display: block;
+
+}
+ul.submenu > li > a {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+ul.submenu > li > a:hover {
+    text-decoration: none;
+        color: white;
+}
+ul.menu > li:hover > ul.submenu {
+    display: block;
+    position: absolute;
+    z-index: 5;
+}
+.gl{
+  width: 17%;
+  text-align: center;
+}
+.pt{
+  width: 15%;
+
+}
+.yc{
+  width: 10%;
+
+}
+.partn{
+  width: 14%;
+
+}
+.otz{
+  width: 18%;
+
+}
+.on{
+  width: 11%;
+
+}
+.kn{
+  width: 15%;
+
+
+}
